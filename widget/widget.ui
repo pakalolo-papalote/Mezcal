@@ -1,0 +1,1579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MezcalPicker</class>
+ <widget class="QWidget" name="MezcalPicker">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>438</width>
+    <height>591</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Mezcal Color Scheme Picker</string>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(0, 0, 0);</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_2">
+   <item row="0" column="0">
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QFrame" name="tetrad4">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 204, 0);</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_6">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_tetrad4">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Minimum">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>24</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::NoContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="text">
+           <string>🐊</string>
+          </property>
+          <property name="default">
+           <bool>false</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QFrame" name="monochrome1">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 102, 204);</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_10">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_monochrome1">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>24</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::NoContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="text">
+           <string>🐣</string>
+          </property>
+          <property name="default">
+           <bool>false</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QFrame" name="monochrome2">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 59, 119);
+</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_12">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_monochrome2">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>24</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::NoContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="text">
+           <string>🐤</string>
+          </property>
+          <property name="default">
+           <bool>false</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QFrame" name="monochrome3">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 17, 34);</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_11">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_monochrome3">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>24</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::NoContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="text">
+           <string>🐔</string>
+          </property>
+          <property name="default">
+           <bool>false</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="0" column="1">
+    <layout class="QVBoxLayout" name="verticalLayout_3">
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout">
+       <item>
+        <widget class="QFrame" name="tetrad3">
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(204, 102, 0);</string>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <layout class="QGridLayout" name="gridLayout_5">
+          <item row="0" column="0">
+           <widget class="QPushButton" name="push_tetrad3">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Minimum" vsizetype="Minimum">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="font">
+             <font>
+              <family>Noto Emoji</family>
+              <pointsize>24</pointsize>
+             </font>
+            </property>
+            <property name="contextMenuPolicy">
+             <enum>Qt::NoContextMenu</enum>
+            </property>
+            <property name="autoFillBackground">
+             <bool>false</bool>
+            </property>
+            <property name="text">
+             <string>🐙</string>
+            </property>
+            <property name="default">
+             <bool>false</bool>
+            </property>
+            <property name="flat">
+             <bool>true</bool>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <widget class="QFrame" name="tetrad2">
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(204, 0, 204);</string>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <layout class="QGridLayout" name="gridLayout_4">
+          <item row="0" column="0">
+           <widget class="QPushButton" name="push_tetrad2">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Minimum" vsizetype="Minimum">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="font">
+             <font>
+              <family>Noto Emoji</family>
+              <pointsize>24</pointsize>
+             </font>
+            </property>
+            <property name="contextMenuPolicy">
+             <enum>Qt::NoContextMenu</enum>
+            </property>
+            <property name="autoFillBackground">
+             <bool>false</bool>
+            </property>
+            <property name="text">
+             <string>🐬</string>
+            </property>
+            <property name="default">
+             <bool>false</bool>
+            </property>
+            <property name="flat">
+             <bool>true</bool>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <widget class="QFrame" name="rum_color">
+       <property name="styleSheet">
+        <string notr="true">background-color: qlineargradient(spread:pad, x1:0, y0:0, x2:0, y2:1, stop:0 rgba(255, 0, 0, 255), stop:0.166 rgba(255, 255, 0, 255), stop:0.333 rgba(0, 255, 0, 255), stop:0.5 rgba(0, 255, 255, 255), stop:0.666 rgba(0, 0, 255, 255), stop:0.833 rgba(255, 0, 255, 255), stop:1 rgba(255, 0, 0, 255));</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_13">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_rum_color">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="MinimumExpanding" vsizetype="MinimumExpanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>88</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::DefaultContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: rgb(0, 102, 204);</string>
+          </property>
+          <property name="text">
+           <string>🌈</string>
+          </property>
+          <property name="checkable">
+           <bool>false</bool>
+          </property>
+          <property name="default">
+           <bool>true</bool>
+          </property>
+          <property name="flat">
+           <bool>false</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="0" column="2">
+    <layout class="QVBoxLayout" name="verticalLayout_2">
+     <item>
+      <widget class="QFrame" name="tetrad1">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 102, 204);</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <property name="tetrad_bg" stdset="0">
+        <color>
+         <red>0</red>
+         <green>0</green>
+         <blue>255</blue>
+        </color>
+       </property>
+       <property name="bg_style" stdset="0">
+        <string>asdfsadfdsf</string>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_3">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_tetrad1">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Minimum">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>24</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::NoContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="text">
+           <string>🐋</string>
+          </property>
+          <property name="default">
+           <bool>false</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QFrame" name="triad3">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(102, 204, 0);</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_9">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_triad3">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>24</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::NoContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="text">
+           <string>🐂</string>
+          </property>
+          <property name="default">
+           <bool>false</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QFrame" name="triad2">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(204, 0, 102);</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_8">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_triad2">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>24</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::NoContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="text">
+           <string>🐇</string>
+          </property>
+          <property name="default">
+           <bool>false</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <widget class="QFrame" name="triad1">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 102, 204);</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_7">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_triad1">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>24</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::NoContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="text">
+           <string>🐀</string>
+          </property>
+          <property name="default">
+           <bool>false</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="1" column="0" colspan="3">
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="2" column="2">
+      <widget class="QFrame" name="analogous3">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(102, 204, 0);</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_20">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_analogous3">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>24</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::NoContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="text">
+           <string>🌱</string>
+          </property>
+          <property name="default">
+           <bool>false</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item row="0" column="0">
+      <widget class="QFrame" name="scompliment2">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(204, 20, 0);</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_18">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_scompliment2">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>24</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::NoContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="text">
+           <string>🌛</string>
+          </property>
+          <property name="default">
+           <bool>false</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QFrame" name="scompliment1">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 102, 204);</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_16">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_scompliment1">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>24</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::NoContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="text">
+           <string>🌚</string>
+          </property>
+          <property name="default">
+           <bool>false</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QFrame" name="scompliment3">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(204, 184, 0);</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_21">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_scompliment3">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>24</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::NoContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="text">
+           <string>🌜</string>
+          </property>
+          <property name="default">
+           <bool>false</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <spacer name="horizontalSpacer_4">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item row="1" column="1">
+      <widget class="QFrame" name="compliment2">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(204, 102, 0);</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_15">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_compliment2">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>24</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::NoContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="text">
+           <string>🌝</string>
+          </property>
+          <property name="default">
+           <bool>false</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item row="1" column="2">
+      <spacer name="horizontalSpacer_3">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item row="2" column="0">
+      <widget class="QFrame" name="analogous2">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(204, 0, 102);</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_19">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_analogous2">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>24</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::NoContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="text">
+           <string>⛈</string>
+          </property>
+          <property name="default">
+           <bool>false</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QFrame" name="analogous1">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 102, 204);</string>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::StyledPanel</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Raised</enum>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_14">
+        <item row="0" column="0">
+         <widget class="QPushButton" name="push_analogous1">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Noto Emoji</family>
+            <pointsize>24</pointsize>
+           </font>
+          </property>
+          <property name="contextMenuPolicy">
+           <enum>Qt::NoContextMenu</enum>
+          </property>
+          <property name="autoFillBackground">
+           <bool>false</bool>
+          </property>
+          <property name="text">
+           <string>🌞</string>
+          </property>
+          <property name="default">
+           <bool>false</bool>
+          </property>
+          <property name="flat">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <tabstops>
+  <tabstop>push_analogous1</tabstop>
+  <tabstop>push_analogous2</tabstop>
+  <tabstop>push_analogous3</tabstop>
+  <tabstop>push_scompliment1</tabstop>
+  <tabstop>push_compliment2</tabstop>
+  <tabstop>push_scompliment2</tabstop>
+  <tabstop>push_scompliment3</tabstop>
+  <tabstop>push_triad1</tabstop>
+  <tabstop>push_triad2</tabstop>
+  <tabstop>push_triad3</tabstop>
+  <tabstop>push_tetrad1</tabstop>
+  <tabstop>push_tetrad2</tabstop>
+  <tabstop>push_tetrad3</tabstop>
+  <tabstop>push_tetrad4</tabstop>
+  <tabstop>push_monochrome1</tabstop>
+  <tabstop>push_monochrome2</tabstop>
+  <tabstop>push_monochrome3</tabstop>
+  <tabstop>push_rum_color</tabstop>
+ </tabstops>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>push_scompliment1</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_scompliments1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>270</x>
+     <y>398</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_analogous3</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_analogous3()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>317</x>
+     <y>533</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_analogous1</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_analogous1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>545</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_analogous2</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_analogous2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>75</x>
+     <y>545</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_compliment2</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_compliments2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>462</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_monochrome2</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_monochrome2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>56</x>
+     <y>211</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_monochrome3</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_monochrome3()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>56</x>
+     <y>294</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_scompliment2</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_scompliments2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>75</x>
+     <y>379</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_scompliment3</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_scompliments3()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>362</x>
+     <y>379</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_tetrad1</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_tetrad1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>380</x>
+     <y>45</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_tetrad2</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_tetrad2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>271</x>
+     <y>46</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_tetrad3</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_tetrad3()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>165</x>
+     <y>46</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_triad1</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_triad1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>380</x>
+     <y>294</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_triad2</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_triad2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>380</x>
+     <y>211</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_triad3</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_tetrad3()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>380</x>
+     <y>128</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_monochrome1</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_monochrome1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>56</x>
+     <y>128</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_tetrad4</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_tetrad4()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>56</x>
+     <y>45</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>push_rum_color</sender>
+   <signal>clicked()</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>pick_theme()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>212</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>theme_color(QColor)</signal>
+   <receiver>MezcalPicker</receiver>
+   <slot>set_theme(QColor)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_analogous1(QString)</signal>
+   <receiver>analogous1</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>545</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_analogous2(QString)</signal>
+   <receiver>analogous2</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>75</x>
+     <y>545</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_analogous3(QString)</signal>
+   <receiver>analogous3</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>362</x>
+     <y>545</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_compliments1(QString)</signal>
+   <receiver>scompliment1</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>379</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_compliments2(QString)</signal>
+   <receiver>compliment2</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>462</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_mono1(QString)</signal>
+   <receiver>monochrome1</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>56</x>
+     <y>128</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_mono2(QString)</signal>
+   <receiver>monochrome2</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>56</x>
+     <y>211</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_mono3(QString)</signal>
+   <receiver>monochrome3</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>56</x>
+     <y>294</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_scompliments1(QString)</signal>
+   <receiver>scompliment1</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>218</x>
+     <y>379</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_scompliments2(QString)</signal>
+   <receiver>scompliment2</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>75</x>
+     <y>379</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_scompliments3(QString)</signal>
+   <receiver>scompliment3</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>362</x>
+     <y>379</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_tetrad1(QString)</signal>
+   <receiver>tetrad1</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>380</x>
+     <y>45</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_tetrad2(QString)</signal>
+   <receiver>tetrad2</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>271</x>
+     <y>46</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_tetrad3(QString)</signal>
+   <receiver>tetrad3</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>165</x>
+     <y>46</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_tetrad4(QString)</signal>
+   <receiver>tetrad4</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>56</x>
+     <y>45</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_triad1(QString)</signal>
+   <receiver>triad1</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>380</x>
+     <y>294</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_triad2(QString)</signal>
+   <receiver>triad2</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>380</x>
+     <y>211</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>MezcalPicker</sender>
+   <signal>sig_triad3(QString)</signal>
+   <receiver>triad3</receiver>
+   <slot>setStyleSheet(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>218</x>
+     <y>295</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>380</x>
+     <y>128</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <signal>picked_color(QColor)</signal>
+  <signal>picked_type(QString)</signal>
+  <signal>theme_color(QColor)</signal>
+  <signal>sig_analogous1(QString)</signal>
+  <signal>sig_analogous2(QString)</signal>
+  <signal>sig_analogous3(QString)</signal>
+  <signal>sig_compliments1(QString)</signal>
+  <signal>sig_compliments2(QString)</signal>
+  <signal>sig_scompliments1(QString)</signal>
+  <signal>sig_scompliments2(QString)</signal>
+  <signal>sig_scompliments3(QString)</signal>
+  <signal>sig_mono1(QString)</signal>
+  <signal>sig_mono2(QString)</signal>
+  <signal>sig_mono3(QString)</signal>
+  <signal>sig_tetrad1(QString)</signal>
+  <signal>sig_tetrad2(QString)</signal>
+  <signal>sig_tetrad3(QString)</signal>
+  <signal>sig_tetrad4(QString)</signal>
+  <signal>sig_triad1(QString)</signal>
+  <signal>sig_triad2(QString)</signal>
+  <signal>sig_triad3(QString)</signal>
+  <slot>pick_theme()</slot>
+  <slot>set_scompliments1()</slot>
+  <slot>set_scompliments2()</slot>
+  <slot>set_scompliments3()</slot>
+  <slot>set_compliments2()</slot>
+  <slot>set_analogous1()</slot>
+  <slot>set_analogous2()</slot>
+  <slot>set_analogous3()</slot>
+  <slot>set_triad1()</slot>
+  <slot>set_triad2()</slot>
+  <slot>set_triad3()</slot>
+  <slot>set_tetrad1()</slot>
+  <slot>set_tetrad2()</slot>
+  <slot>set_tetrad3()</slot>
+  <slot>set_tetrad4()</slot>
+  <slot>set_monochrome1()</slot>
+  <slot>set_monochrome2()</slot>
+  <slot>set_monochrome3()</slot>
+  <slot>set_theme(QColor)</slot>
+ </slots>
+</ui>
