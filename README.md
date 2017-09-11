@@ -1,4 +1,4 @@
-[![Mezcal Bottle](https://github.org/repo-dir/mezcal.bz2.png)](https://github.org/repodir)
+[![Mezcal Bottle](https://github.com/pakalolo-papalote/Mezcal/blob/master/mezcal.bz2.png?raw=true)](https://github.com/pakalolo-papalote/Mezcal/)
 
 # Description:
 Mezcal is a distilled from the awesome Agave color scheme generator application (http://home.gna.org/colorscheme/).
