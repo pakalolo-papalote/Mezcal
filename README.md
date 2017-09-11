@@ -33,7 +33,7 @@ print( glass.analogous[0].hex )
 glass = Bottle( hex="#0066cc" )
 print( glass.rgb_scheme )
 ```
-[![Mezcal Widget](https://github.org/repo-dir/PyQt5-widget/g.gif)](https://github.org/repodir/PyQt5-widget)
+[![Mezcal Widget](https://github.com/pakalolo-papalote/Mezcal/blob/master/widget/g.gif?raw=true)](https://github.com/pakalolo-papalote/Mezcal/blob/master/widget/g.gif?raw=true)
 
 # Mezcal PyQt5 Visualization
 ```bash
