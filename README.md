@@ -6,6 +6,14 @@ Mezcal is a distilled from the awesome Agave color scheme generator application 
 Depends on:
 	- numpy >= 1.12.1
 
+```bash
+# With PyQt5
+pip install PyQt5
+
+# Install
+pip install Mezcal
+```
+
 # Usage Example:
 ```python
 from Mezcal.Barrel import Bottle
